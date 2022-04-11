@@ -34,7 +34,7 @@ Project created by <a href="https://github.com/AiDarkEzio">AiDarkEzio</a> to mak
 
 ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AiDarkEzio/PINKY_BOT-V10)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/senarathnagamini/PINKY_BOT-V10)
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
